@@ -1,6 +1,6 @@
 package com.amzi.dao;
 /*
- * Yamini Pradhan  in lab 01 hellooodsdhjkhjkhkjhkhkhkhkhkhsdsdsdsd
+ * Yamini Pradhan  in lab 01 
  */
 import java.sql.Connection;
 import java.sql.DriverManager;
